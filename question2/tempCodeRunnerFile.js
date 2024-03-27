@@ -1,0 +1,1 @@
+const WINDOW_SIZE = 10;
